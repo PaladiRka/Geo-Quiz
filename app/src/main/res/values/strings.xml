@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="question_britain">London is the capital of Grate Britain.</string>
+    <string name="question_russia">Moscow is the capital of Russia.</string>
+    <string name="question_germany">Hamburg is the capital of Germany.</string>
+    <string name="true_button">YES</string>
+    <string name="false_button">NO</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="next_button">Next!</string>
+    <string name="prev_button">Back</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgment_toast">Cheating is wrong.</string>
+</resources>
